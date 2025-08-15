@@ -64,7 +64,7 @@ Node.js 18+
 PostgreSQL 14+
 Git
 ### Step 1: Clone Repository
-git clone https://github.com/MR-Shivam-Tiwari/Smart-AI-Todo-List.git
+git clone https://github.com/MR-Shivam-Tiwari/Smart-AI-Todo-ListT.git
 cd smart-todo-ai
 ### Step 2: Backend Setup (Django)
 Navigate to backend directory
