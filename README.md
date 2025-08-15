@@ -4,8 +4,7 @@ Transform your task management with Google Gemini AI-powered intelligent insight
 
 ## 🚀 Assignment Overview
 
-This project implements a comprehensive Smart Todo List application with AI integration for intelligent task management, built as part of the Full Stack Developer position assignment.
-     
+This project implements a comprehensive Smart Todo List application with AI integration for intelligent task management.
 ### 🎯 Key Features Implemented
 
 - **🤖 AI-Powered Task Enhancement** - Google Gemini integration for intelligent task analysis
